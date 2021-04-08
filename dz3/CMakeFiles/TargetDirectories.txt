@@ -1,0 +1,3 @@
+/home/elena/c++/dz3/CMakeFiles/rebuild_cache.dir
+/home/elena/c++/dz3/CMakeFiles/edit_cache.dir
+/home/elena/c++/dz3/CMakeFiles/lesson3.dir
